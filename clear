@@ -1,0 +1,121 @@
+[33mcommit 38ca7ffec8b60a057614ef1e6a474ee8b1a25d27[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: Rohidas Alse <rohidasalse2002@gmail.com>
+Date:   Thu Jun 19 13:00:49 2025 +0530
+
+    Home page is added. home.jsp
+
+[33mcommit 7f0bc4854265bd5d155c6e1e8e25e7306034a131[m
+Merge: 54a6cc8 4171e2a
+Author: Rohidas Alse <rohidasalse2002@gmail.com>
+Date:   Thu Jun 19 09:51:00 2025 +0530
+
+    save
+
+[33mcommit 54a6cc815d53074484f5d72ebd8d3377cedb3878[m
+Author: Rohidas Alse <rohidasalse2002@gmail.com>
+Date:   Wed Jun 18 15:01:56 2025 +0530
+
+    my sql is configuration completed
+
+[33mcommit 4171e2ad6eb8a3507d556367057d2e98eaa1d86d[m
+Author: Ravimanikanta13 <ravimanikantachowdary@gmail.com>
+Date:   Wed Jun 18 12:28:52 2025 +0530
+
+    Added static login, register and home page
+
+[33mcommit 2dd6bc828d21bf641f409a93440d46f74bb10bc4[m
+Author: Ravimanikanta13 <ravimanikantachowdary@gmail.com>
+Date:   Tue Jun 17 15:51:44 2025 +0530
+
+    created folder for webapp under main folder
+
+[33mcommit 2e7e48e56433319906a30b8210ec2c89feb4af95[m
+Author: Ravimanikanta13 <ravimanikantachowdary@gmail.com>
+Date:   Tue Jun 17 15:45:01 2025 +0530
+
+    update application.properties
+
+[33mcommit fc8e3101bf242552b287eb745b3b00af6a46d125[m
+Merge: cff4264 98ebe9c
+Author: Ravimanikanta13 <ravimanikantachowdary@gmail.com>
+Date:   Tue Jun 17 15:39:13 2025 +0530
+
+    added application.properties
+
+[33mcommit cff4264dd0f5da23770155d2434c0a54e709f7f5[m
+Author: Ravimanikanta13 <ravimanikantachowdary@gmail.com>
+Date:   Tue Jun 17 15:35:16 2025 +0530
+
+    added application.properties
+
+[33mcommit 98ebe9c3fdcb6fa43b6e98c01550581755b3a6cd[m
+Author: Rohidas Alse <rohidasalse2002@gmail.com>
+Date:   Tue Jun 17 15:33:16 2025 +0530
+
+    folder structure is updated - /webapp/WEB-INF/views/
+
+[33mcommit b7b0f741082abc89aa3b875331d0fd66519c74ed[m
+Author: Ravimanikanta13 <ravimanikantachowdary@gmail.com>
+Date:   Tue Jun 17 14:56:25 2025 +0530
+
+    temperally added one controller for checking frontend home page
+
+[33mcommit 037d352996eb0248dde394063e57b0d66cbe13df[m
+Author: Rohidas Alse <rohidasalse2002@gmail.com>
+Date:   Tue Jun 17 14:49:59 2025 +0530
+
+    home.jsp
+
+[33mcommit 3aba6a52785d405bed7bb2aa68e81d8f05ee2c7d[m
+Author: Ravimanikanta13 <ravimanikantachowdary@gmail.com>
+Date:   Tue Jun 17 12:38:41 2025 +0530
+
+    User Entity is updated
+
+[33mcommit 8d3243911ee29ae7631c0da3e304d296e4561fa4[m
+Author: Ravimanikanta13 <ravimanikantachowdary@gmail.com>
+Date:   Tue Jun 17 12:24:25 2025 +0530
+
+    Entity is updated
+
+[33mcommit 88f83949c32a26f8d9dae68d7fd468219e67a89d[m
+Author: Ravimanikanta13 <ravimanikantachowdary@gmail.com>
+Date:   Tue Jun 17 12:19:20 2025 +0530
+
+    Entity is updated
+
+[33mcommit 9d1d193f340d4c220480528f026c9f351ef679c7[m
+Author: saikumar kathraj <kathrajsaikumar18@gmail.com>
+Date:   Tue Jun 17 11:39:50 2025 +0530
+
+    @Annotations added in enity
+
+[33mcommit 812ff1fea51f45a3d321921d99eb6786d0eec6df[m
+Author: saikumar kathraj <kathrajsaikumar18@gmail.com>
+Date:   Mon Jun 16 22:58:23 2025 +0530
+
+    Project Execution flow Reference image added
+
+[33mcommit 118732e1362c8c85bf1297a58dcbd7449c168f1b[m
+Author: saikumar kathraj <kathrajsaikumar18@gmail.com>
+Date:   Mon Jun 16 17:43:56 2025 +0530
+
+    Added entity class Admin
+
+[33mcommit 1713cb93168189745eba09ea582c8f3ce1fbb1de[m
+Author: saikumar kathraj <kathrajsaikumar18@gmail.com>
+Date:   Mon Jun 16 17:30:22 2025 +0530
+
+    Packages crreated entity, controller, service, repository
+
+[33mcommit d254ea4454d511ac6e6cb54e47b4e778e5275f85[m
+Author: saikumar kathraj <kathrajsaikumar18@gmail.com>
+Date:   Mon Jun 16 17:10:38 2025 +0530
+
+    Created entity package
+
+[33mcommit b8b0cd3507f67c663d8dc375145d0735f9702cdc[m
+Author: saikumar kathraj <kathrajsaikumar18@gmail.com>
+Date:   Mon Jun 16 16:47:36 2025 +0530
+
+    Intial Spring Boot Project setup
